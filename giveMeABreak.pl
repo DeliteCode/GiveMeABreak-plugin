@@ -7,6 +7,12 @@
 #giveMeABreak_1_end   02:30
 #giveMeABreak_1_load  config_1.txt
 
+#giveMeABreak_2_start 02:31
+#giveMeABreak_2_end   04:00
+#giveMeABreak_2_load  config_acc2.txt
+
+
+
 
 package giveMeABreak;
 use strict;
